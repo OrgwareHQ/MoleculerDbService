@@ -1,5 +1,5 @@
 {
-  "name": "moleculer-db-adapter-mongo",
+  "name": "@orgware/moleculer-db-adapter-mongo",
   "version": "0.4.21",
   "description": "MongoDB native adapter for Moleculer DB service.",
   "main": "index.js",
